@@ -1,0 +1,17 @@
+{
+  "author": "Elmer Zhang <freeboy6716@gmail.com> (http://www.elmerzhang.com)",
+  "name": "ezcrypto",
+  "description": "Provide standard and secure cryptographic algorithms for NodeJS. Support MD5, SHA-1, SHA-256, RC4, Rabbit, AES, DES, PBKDF2, HMAC, OFB, CFB, CTR, CBC",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ElmerZhang/ezcrypto",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ElmerZhang/ezcrypto.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
