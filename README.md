@@ -3,6 +3,15 @@
 **Crypto-JS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns. They are fast, and they have a consistent and simple interface.**
 
 #Quick-start Guide
+## Install
+<pre>
+npm install ezcrypto
+</pre>
+## Examples
+###Start
+<pre>
+var Crypto = require('ezcrypto').Crypto;
+</pre>
 ###MD5
 MD5 is a widely used hash function. It's been used in a variety of security applications and is also commonly used to check the integrity of files. Though, MD5 is not collision resistant, and it isn't suitable for applications like SSL certificates or digital signatures that rely on this property.
 
