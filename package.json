@@ -1,9 +1,14 @@
 {
-  "author": "Elmer Zhang <freeboy6716@gmail.com> (http://www.elmerzhang.com)",
+  "author": {
+    "name" : "Elmer Zhang",
+    "email" : "freeboy6716@gmail.com",
+    "url" : "http://www.elmerzhang.com/",
+    "weibo" : "http://weibo.com/elmerzhang",
+  },
   "name": "ezcrypto",
   "tags": ["Hash", "MD5", "SHA1", "SHA-1", "SHA256", "SHA-256", "RC4", "Rabbit", "AES", "DES", "PBKDF2", "HMAC", "OFB", "CFB", "CTR", "CBC", "Base64"],
   "description": "Provide standard and secure cryptographic algorithms for NodeJS. Support MD5, SHA-1, SHA-256, RC4, Rabbit, AES, DES, PBKDF2, HMAC, OFB, CFB, CTR, CBC, Base64",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/ElmerZhang/ezcrypto",
   "repository": {
     "type": "git",
