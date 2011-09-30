@@ -3,7 +3,7 @@
     "name" : "Elmer Zhang",
     "email" : "freeboy6716@gmail.com",
     "url" : "http://www.elmerzhang.com/",
-    "weibo" : "http://weibo.com/elmerzhang",
+    "weibo" : "http://weibo.com/elmerzhang"
   },
   "name": "ezcrypto",
   "tags": ["Hash", "MD5", "SHA1", "SHA-1", "SHA256", "SHA-256", "RC4", "Rabbit", "AES", "DES", "PBKDF2", "HMAC", "OFB", "CFB", "CTR", "CBC", "Base64"],
